@@ -1,4 +1,4 @@
-// Единый интерфейс (Target)
+// Единый интерфейс 
 public interface ILogger {
     void logInfo(String message);
     void logWarning(String message);
